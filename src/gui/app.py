@@ -1,5 +1,3 @@
-# src/gui/app.py
-
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox
 import numpy as np
